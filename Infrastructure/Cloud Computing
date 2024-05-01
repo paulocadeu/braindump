@@ -1,0 +1,30 @@
+# Tipos de computação em nuvem
+
+IaaS - Infrastructure as a service (Infraestrutura como Serviço)
+Provê as ferramentas para que organização possa construir sua infraestrutura na nuvem.
+* Network
+* Processamento
+* Armazenamento
+* etc
+
+PaaS - Platform as a Service (Plataforma como Serviço)
+Remove a necessidade da organização gerenciar a infraestrutura subjacente.
+
+SaaS - Software as a Service (Software como Serviço)
+É um produto, sendo completamente executado e gerenciado pelo provedor do serviço.
+
+
+# Pricing of the cloud
+
+pay-to-provide
+
+pay-as-you-go
+
+* Compute:
+  Pague pelo tempo de processamento
+
+* Storage:
+  Pague pelos dados armazenados
+
+* Data Transfer OUT of the cloud
+  Pague pela retirada dos dados, inserção é gratis

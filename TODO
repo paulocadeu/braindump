@@ -1,0 +1,74 @@
+
+## TODO
+* Fazer uma estrutura de arvore para o conhecimento.
+* refazer esse arquivo de readme com os links para os documentos criados.
+* Fazer um parser de markdown para html como [Esse](https://markdowntohtml.com/)
+
+
+
+---
+# SQL
+https://www.youtube.com/watch?v=ncgEQBONI_w&list=PLpdAy0tYrnKxDVJfbPRe8L_YbACivhl3t
+# modelagem de dados
+https://www.youtube.com/watch?v=5V3_0jxU4rU&list=PLpdAy0tYrnKyFfN5dlviVb6D65rpJK5Jw
+
+---
+# Postgresql
+### pg hba conf demo
+https://www.youtube.com/watch?v=5vfX4Ag2e5o
+### Postgres e PGAdmin diretamente pelo Docker
+https://www.youtube.com/watch?v=CdoBvd_bPdk&t=617s
+
+---
+# Snowflake
+### Quickstarts
+https://quickstarts.snowflake.com/guide/tour_of_ingest/index.html#1
+### SOLUTION ARCHITECTURE: CALL CENTER ANALYTICS WITH SNOWFLAKE CORTEX
+https://developers.snowflake.com/solution/call-center-analytics-with-snowflake-cortex-and-snowpark-container-services/
+### Snowflake: Role-based access control framework design
+https://medium.com/@sivailango.s/snowflake-role-based-access-control-framework-design-3cf8c068dae7
+### Comparison
+https://www.onehouse.ai/blog/apache-hudi-vs-delta-lake-vs-apache-iceberg-lakehouse-feature-comparison
+
+
+# Linux
+### New Linux User: 10 Things I Wish I Knew When I First Started
+https://www.youtube.com/watch?v=HIJ6LixbcAY
+### Unix Domain Socket
+https://www.youtube.com/watch?v=1UHaR54i3ak
+### SSH FILE ENCRYPTION
+https://hpc.uni.lu/old/blog/2018/file-encryption-using-ssh-rsa-key-pairs/
+
+## Ubuntu
+### APT-KEY
+https://stackoverflow.com/questions/68992799/warning-apt-key-is-deprecated-manage-keyring-files-in-trusted-gpg-d-instead
+
+
+# Platform Engineering
+https://www.youtube.com/watch?v=G2chp-kk-j4&list=PLGVPcLSzJXQos1O18dvKoW2XSczz2I2lH
+https://github.com/guymenahem/how-to-devops-tools/blob/main/backstage/README.md
+https://medium.com/rd-shipit/backstage-o-que-%C3%A9-isso-2038eb90ca0e
+https://www.redhat.com/en/topics/devops/what-is-an-internal-developer-platform
+### How to use PostgreSQL in a local Backstage Application
+https://www.youtube.com/watch?v=gZYLDof1MQo
+
+
+# Networking
+### Computer Networking Course
+https://www.youtube.com/watch?v=IPvYjXCsTg8
+
+
+
+# Ruby on Rails
+### Rails application with NoSQL Database
+https://www.fastruby.io/blog/rails/rails-application-with-nosql-database.html
+
+
+
+# DevOps
+https://www.redhat.com/en/topics/devops
+
+
+
+# Software Development
+https://www.freecodecamp.org/news/solid-principles-explained-in-plain-english/
